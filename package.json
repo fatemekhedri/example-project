@@ -1,6 +1,6 @@
 {
   "name": "new-example-project",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "test",
   "main": "index.ts",
   "scripts": {
